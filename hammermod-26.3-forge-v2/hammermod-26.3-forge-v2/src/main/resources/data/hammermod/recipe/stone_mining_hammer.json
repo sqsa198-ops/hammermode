@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "CCC",
+    "CSC",
+    " S "
+  ],
+  "key": {
+    "C": "#minecraft:stone_tool_materials",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "hammermod:stone_mining_hammer",
+    "count": 1
+  }
+}
